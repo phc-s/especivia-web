@@ -53,7 +53,7 @@ Here you can verify all of the skills used to develop *Especivia Web Page*. List
 ## License 📕:
 
 Especivia Web Page is licensed under GNU General Public License v3.0+
-+ https://github.com/phc-s/especivia-app/blob/main/LICENSE
++ https://github.com/phc-s/especivia-web/blob/main/LICENSE
 
 ## Credits 👨‍💻:
 

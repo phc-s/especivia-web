@@ -35,7 +35,7 @@ Here you can verify all of the skills used to develop *Especivia Web Page*. List
 + HTML5
 + CSS
 + Javascript or Typescript
-+ React Native
++ React
 
 **Design**
 
